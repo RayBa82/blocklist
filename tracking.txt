@@ -2,5 +2,5 @@
 # License: GPLv3
 # Contact: support [at] disconnect.me
 
-0.0.0.0 graph.facebook.com
-0.0.0.0 analytics.google.com
+graph.facebook.com
+analytics.google.com
