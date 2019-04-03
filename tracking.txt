@@ -1,3 +1,2 @@
 graph.facebook.com
 analytics.google.com
-sunways.de
